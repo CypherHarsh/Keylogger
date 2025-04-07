@@ -43,4 +43,4 @@ pip install pynput requests
 
 ---
 
-Would you like me to add anything else, such as a setup guide for the Telegram bot? 🚀
+
